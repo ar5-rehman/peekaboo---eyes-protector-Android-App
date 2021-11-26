@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="red">#ee4d3b</color>
+    <color name="green">#76d86a</color>
+
+    <color name="lightYellow">#efb325</color>
+    <color name="purple">#b01791</color>
+    <color name="blue">#5886e8</color>
+
+    <color name="color1">#f0b02e</color>
+    <color name="color2">#ee813c</color>
+    <color name="color3">#ee6b4f</color>
+    <color name="color4">#ed5c4f</color>
+    <color name="color5">#ec3e5e</color>
+    <color name="color6">#ea3563</color>
+    <color name="color7">#e81275</color>
+    <color name="color8">#e9137b</color>
+    <color name="color9">#bc148c</color>
+    <color name="color10">#802ca8</color>
+    <color name="color11">#712ead</color>
+    <color name="color12">#6750c4</color>
+    <color name="color13">#635fce</color>
+    <color name="color14">#548fef</color>
+
+
+    <array name="colorArray">
+        <item>@color/color1</item>
+        <item>@color/color2</item>
+        <item>@color/color3</item>
+        <item>@color/color4</item>
+        <item>@color/color5</item>
+        <item>@color/color6</item>
+        <item>@color/color7</item>
+        <item>@color/color8</item>
+        <item>@color/color9</item>
+        <item>@color/color10</item>
+        <item>@color/color11</item>
+        <item>@color/color12</item>
+        <item>@color/color13</item>
+        <item>@color/color14</item>
+    </array>
+</resources>
